@@ -25,4 +25,5 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 ## Spark RDD
 - [What are the top 10 most viewed movies?](/Spark_RDD/Top_10_Most_Viewed_Movies/)
 - [What are the distinct list of genres available?](/Spark_RDD/Distinct_Genres/)
+- [What are the latest movies?](/Spark_RDD/Latest_movies/)
 
