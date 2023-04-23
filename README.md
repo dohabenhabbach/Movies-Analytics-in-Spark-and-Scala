@@ -14,3 +14,15 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 	</a>
 </p>
 
+# Environment
+* Docker
+* Hadoop 2.7.2
+* Spark 2.0.2
+* Scala 2.11
+
+# Analytical Queries
+
+## Spark RDD
+- [What are the top 10 most viewed movies?](/Spark_RDD/Top_10_Most_Viewed_Movies/)
+- [What are the distinct list of genres available?](/Spark_RDD/Distinct_Genres/)
+
