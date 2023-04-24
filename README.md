@@ -20,6 +20,13 @@ Solving analytical questions on the semi-structured [MovieLens dataset](https://
 * Spark 2.0.2
 * Scala 2.11
 
+# Installation steps
+
+1. Simply clone the repository
+	```
+	git clone https://github.com/dohabenhabbach/Movies-Analytics-in-Spark-and-Scala.git
+	```
+
 # Analytical Queries
 
 ## Spark RDD
